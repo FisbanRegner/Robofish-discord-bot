@@ -1,2 +1,2 @@
 # Robofish-discord-bot
-Public Github page for RobFish
+Public Github page for RoboFish
