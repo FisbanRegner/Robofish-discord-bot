@@ -1,0 +1,93 @@
+RoboFish Terms of Service
+
+Effective Date: June 25, 2026
+
+These Terms of Service explain the rules for using RoboFish, a Discord bot.
+
+By adding RoboFish to a Discord server or using RoboFish commands, you agree to these Terms. If you do not agree, do not use RoboFish.
+
+1. Use of RoboFish
+
+RoboFish provides Discord server features, including:
+
+- Role Menus
+- Suggestions
+- Games
+
+Server owners and administrators are responsible for how RoboFish is configured and used in their server.
+
+2. Discord Terms
+
+RoboFish is used through Discord. Your use of Discord is also governed by Discord’s own Terms of Service, Community Guidelines, Developer Terms, and other applicable Discord policies.
+
+RoboFish is not affiliated with, endorsed by, or operated by Discord Inc.
+
+3. Server Configuration and Permissions
+
+Some RoboFish features require Discord permissions to work correctly, such as managing roles, sending messages, reading message history, adding reactions, using external emojis, embedding links, attaching files, or managing messages.
+
+Server owners and administrators are responsible for granting RoboFish only the permissions needed for their server.
+
+RoboFish cannot bypass Discord’s built-in permission or role hierarchy rules. For example, RoboFish cannot manage roles that are equal to or higher than its highest role.
+
+4. User Content
+
+Some RoboFish features may allow authorized users to upload or provide content, such as custom role menu backgrounds, images, text, or other server-specific assets.
+
+By uploading or providing content to RoboFish, you confirm that you have the right to use and upload that content.
+
+You grant RoboFish a limited permission to store, process, and use that content only as needed to provide the requested bot features, such as role menu setup, image generation, previews, and related server configuration.
+
+You retain ownership of your uploaded content. RoboFish does not claim ownership of user-uploaded images, backgrounds, text, or other content.
+
+You must not upload or provide content that is unlawful, infringing, malicious, abusive, or that violates Discord’s rules or the rights of others.
+
+RoboFish does not reuse uploaded images or backgrounds for other servers, public display, or unrelated purposes without permission.
+
+5. User Responsibilities
+
+You agree not to use RoboFish to:
+
+- Violate Discord’s Terms of Service or Community Guidelines.
+- Harass, abuse, spam, or harm other users.
+- Attempt to exploit, disrupt, reverse engineer, or abuse RoboFish.
+- Use RoboFish for illegal, malicious, or unauthorized purposes.
+- Misrepresent RoboFish or its developers.
+
+6. Server Owner and Administrator Responsibilities
+
+Server owners and administrators are responsible for:
+
+- Configuring RoboFish safely.
+- Reviewing which roles, channels, and permissions RoboFish uses.
+- Informing server members about bot features that may collect or store server-related data.
+- Removing RoboFish from the server if they no longer agree with these Terms.
+
+7. Availability
+
+RoboFish is provided “as is” and may be changed, updated, disabled, or removed at any time.
+
+No guarantee is made that RoboFish will always be online, error-free, or available in every server.
+
+8. Data
+
+RoboFish may store limited data needed to provide its features. Data practices are explained in the RoboFish Privacy Policy.
+
+9. Termination
+
+Access to RoboFish may be restricted or removed if a user or server abuses the bot, violates these Terms, violates Discord’s rules, or creates a security or safety risk.
+
+Server owners may remove RoboFish from their server at any time.
+
+10. Limitation of Liability
+
+RoboFish is provided without warranties of any kind. The developers are not responsible for damages, data loss, server misconfiguration, role misuse, downtime, or other issues caused by use or misuse of RoboFish.
+
+11. Changes to These Terms
+
+These Terms may be updated from time to time. Continued use of RoboFish after changes means you accept the updated Terms.
+
+12. Contact
+
+For questions, support, or requests, contact:
+https://github.com/FisbanRegner/Robofish-discord-bot/issues
